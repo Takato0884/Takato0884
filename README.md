@@ -1,4 +1,6 @@
-### Hi there 👋
+
+Takato Hayashi is a Master's Student at major in Information Science, Japan Advanced Institute of Science and Technology.
+
 
 <!--
 **Takato0884/Takato0884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
