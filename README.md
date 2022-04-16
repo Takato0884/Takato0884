@@ -2,4 +2,4 @@
 Takato Hayashi is a master's student at major in Information Science, Japan Advanced Institute of Science and Technology.
 
 [Education]  
-Tottori University- BSc in Agriculture, 2021
+2017-2021 BSc in Agriculture, Tottori University
