@@ -1,7 +1,7 @@
 
 Takato Hayashi is a master's student at major in Information Science, Japan Advanced Institute of Science and Technology.
 
-[Interest]
+[Interest]  
 Social Signal Processing, Natural Language Processing
 
 [Education]  
